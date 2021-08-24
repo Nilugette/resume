@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name": "Laure Lebon",
+    "occupation": "Software Engineer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Laure! You will discover in my resume the different stages of my career that has a first but remains focused on the same determination, that of being able to do new things and especially to learn. This is why the digital domain, by its complexity and its countless areas of expertise, is an inexhaustible source of new challenges to retention. For the sake of fulfillment and well-being, I wanted to discover this new world that continues to bring me great satisfaction.",
+    "contactmessage": "Get in touch with me!",
+    "email": "lebon.laure@hotmail.fr",
+    "phone": "+33 (0) 7 68 50 10 75",
+    "address": {
+      "street": "40, rue Emile Zola",
+      "city": "Suresnes",
+      "country": "France",
+      "zip": "92150"
+    },
+    "website": "http://loreily.com/",
+    "resumedownload": "CV_Laure.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/laure.lebon.12",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/laure-lebon-3bb282142",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/nilugette",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Nilugette",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "3WAcademy - Paris - France",
+        "degree": "Master's Degree",
+        "graduated": "January 2020",
+        "description": "Graduated as Designer and Developer of Web Applications"
+      }
+    ],
+    "work": [
+      {
+        "company": "Web-Atrio",
+        "title": "Software Engineer",
+        "years": "July 2021 - Present",
+        "description": "Different react missions"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Airbnb Clone (React JS)",
+        "category": "",
+        "image": "airbnb-clone.png",
+        "url": "https://airbnb-clone-nilugette.vercel.app/"
+      },
+      {
+        "title": "Travel Plan (React JS)",
+        "category": "",
+        "image": "travel-plan.png",
+        "url": "https://travel-plan-laure.netlify.app/"
+      },
+      {
+        "title": "Shop Sharer (React JS)",
+        "category": "",
+        "image": "shop-sharer.png",
+        "url": "https://shopsharer-app.web.app/"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "crwn-clothing.png",
+        "url": "https://laure-online-shop-demo.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Laure is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Laure has been AWESOME, she makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
